@@ -122,7 +122,7 @@ revealing weekly patterns and spikes in suspicious activity.*
 *This chart identifies transaction categories with the highest average anomaly
 scores, pinpointing high-risk areas.*
 ### Geographical Distribution of Anomalous Transactions
-![Geographical Distribution of Anomalies](/home/ubuntu/anomalies_by_state.png)
+![Geographical Distribution of Anomalies](https://github.com/AliHasan-786/Financial-Transaction-Anomaly-Detection/blob/main/geographical_distribution_of_transaction_by_anomaly_status.png))
 *A map illustrating the geographical spread of anomalous transactions, useful
 for identifying regional fraud hotspots.*
 ### Transaction Amount vs. Anomaly Score
