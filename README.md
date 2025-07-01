@@ -119,7 +119,7 @@ Here are some key visualizations from the project:
 *This visualization highlights the daily count of anomalous transactions,
 revealing weekly patterns and spikes in suspicious activity.*
 ### Anomaly Score Distribution by Category
-![Anomaly Score by Category](/home/ubuntu/anomaly_score_by_category.png)
+![Anomaly Score by Category](https://github.com/AliHasan-786/Financial-Transaction-Anomaly-Detection/blob/main/anomaly_score_by_category.png)
 *This chart identifies transaction categories with the highest average anomaly
 scores, pinpointing high-risk areas.*
 ### Geographical Distribution of Anomalous Transactions
