@@ -112,7 +112,6 @@ fraud patterns.
 Interactive dashboards and stories are available on Tableau Public, providing
 deep insights into transaction patterns and anomalies. Click the link below to
 explore the live dashboards:
-[**View Live Tableau Public Dashboard**]
 ([View Live Tableau Public Dashboard](https://public.tableau.com/views/FinancialTransactionAnomalyDetection/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 Here are some key visualizations from the project:
 ### Daily Trend of Anomalous Transactions
