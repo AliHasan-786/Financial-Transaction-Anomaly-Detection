@@ -114,8 +114,7 @@ explore the live dashboards:
 ([View Live Tableau Public Dashboard](https://public.tableau.com/views/FinancialTransactionAnomalyDetection/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 Here are some key visualizations from the project:
 ### Daily Trend of Anomalous Transactions
-![Daily Trend of Anomalous Transactions]
-(/home/ubuntu/daily_anomalies_trend.png)
+![Daily Trend of Anomalous Transactions](https://github.com/AliHasan-786/Financial-Transaction-Anomaly-Detection/blob/main/daily_trend_of_anomalous_transactions.png)
 *This visualization highlights the daily count of anomalous transactions,
 revealing weekly patterns and spikes in suspicious activity.*
 ### Anomaly Score Distribution by Category
