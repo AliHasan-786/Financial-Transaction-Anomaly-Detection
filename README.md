@@ -72,9 +72,9 @@ place it in the `data/` directory.
 and password. Configure its security group to allow inbound connections from
 your EC2 instance.
 * **DynamoDB Table**: Create a DynamoDB table named
-`CapitalOneGuard_CustomerBehavior` with `customer_id` as the partition key.
+`Financial-Transaction-Anomaly-Detection` with `customer_id` as the partition key.
 * **EC2 Instance**: Launch an EC2 `t2.micro` instance (e.g.,
-`CapitalOneGuard-Analytics`). Configure its security group to allow SSH from
+`Financial-Transaction-Anomaly-Detection`). Configure its security group to allow SSH from
 your IP and outbound connections to your RDS instance.
 5. **EC2 Instance Setup**:
 SSH into your EC2 instance and install necessary dependencies:
