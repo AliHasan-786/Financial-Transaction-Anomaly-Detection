@@ -15,7 +15,6 @@ credit card transactions, providing insights crucial for financial institutions.
 - [Visualizations](#visualizations)
 - [Anomaly Detection Methodology](#anomaly-detection-methodology)
 - [Future Enhancements](#future-enhancements)
-- [Contact](#contact)
 
 ## Features
 - **Automated Data Ingestion**: Seamlessly ingests large volumes of credit card
